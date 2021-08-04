@@ -36,6 +36,6 @@
     "node": ">=8"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/vkalta"
+    "vkalta:registry": "https://npm.pkg.github.com"
   }
 }
